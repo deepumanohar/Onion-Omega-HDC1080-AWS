@@ -1,14 +1,4 @@
 
-#
-# SDL_Pi_HDC1000
-# Raspberry Pi Driver for the SwitchDoc Labs HDC1000 Breakout Board
-#
-# SwitchDoc Labs
-# January 2017
-#
-# Version 1.1
-
-#constants
 
 # I2C Address
 HDC1000_ADDRESS =                       (0x40)    # 1000000 
