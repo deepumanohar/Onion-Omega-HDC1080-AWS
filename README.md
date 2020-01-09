@@ -1,1 +1,2 @@
-# Omega_aws
+# **Onion Omega HDC1080 AWS library**
+
